@@ -1,0 +1,14 @@
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\bin\Debug\net8.0\cheap-shark.exe
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\bin\Debug\net8.0\cheap-shark.deps.json
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\bin\Debug\net8.0\cheap-shark.runtimeconfig.json
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\bin\Debug\net8.0\cheap-shark.dll
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\bin\Debug\net8.0\cheap-shark.pdb
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\obj\Debug\net8.0\cheap-shark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\obj\Debug\net8.0\cheap-shark.AssemblyInfoInputs.cache
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\obj\Debug\net8.0\cheap-shark.AssemblyInfo.cs
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\obj\Debug\net8.0\cheap-shark.csproj.CoreCompileInputs.cache
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\obj\Debug\net8.0\cheap-shark.dll
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\obj\Debug\net8.0\refint\cheap-shark.dll
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\obj\Debug\net8.0\cheap-shark.pdb
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\obj\Debug\net8.0\cheap-shark.genruntimeconfig.cache
+C:\Users\marqu\source\repos\cheap-shark\cheap-shark\obj\Debug\net8.0\ref\cheap-shark.dll
